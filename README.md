@@ -9,7 +9,7 @@ from phonenumber_field.modelfields import PhoneNumberField
 
 # Create your models here.
 
-class Portfolio(models.MOdel):
+class Portfolio(models.Model):
   name = models.CharField('Francis Odero')
   location = geomodels.PointField('Nyeri, Kenya')
   profile  = models.CharField('Python GIS web developer, GIS Data analyst')
