@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Get to know more about me.
-,,,python
+```python
 
 from django.db import models
 from django.db.models import Manager as GeoManager
@@ -46,7 +46,5 @@ class Social(models.Model):
   email = models.CharField('francisodero10@gmail.com')
   
   def __str__(self):
-    return self.github
-	
-	
+    return self.github	
 ,,,
