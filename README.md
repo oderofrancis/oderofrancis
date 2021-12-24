@@ -13,6 +13,7 @@ from phonenumber_field.modelfields import PhoneNumberField
 class Portfolio(models.Model):
   name = models.CharField('Francis Odero')
   location = geomodels.PointField('Nyeri, Kenya')
+  phone_number = models.PhoneNumberField(+254791061506)
   profile  = models.CharField('Python GIS web developer, GIS Data analyst')
   experience = models.PositiveIntegerField('2 + years')
   hobbies = models.CharField('coffee','cooking','travelling','poetry')
