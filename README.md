@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Get to know more about me.
+,,,python
 
 from django.db import models
 from django.db.models import Manager as GeoManager
@@ -46,3 +47,6 @@ class Social(models.Model):
   
   def __str__(self):
     return self.github
+	
+	
+,,,
