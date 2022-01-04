@@ -44,6 +44,7 @@ class Social(models.Model):
   github = models.CharField('https://www.github.com/oderofrancis')
   twitter = models.CharField('https://twitter.com/_francisodero_')
   linkedin = models.CharField('www.linkedin.com/in/francis-odero-b69b6219')
+  wakatime =models.CharField('https://wakatime.com/@Odero')
   email = models.CharField('francisodero10@gmail.com')
   
   def __str__(self):
