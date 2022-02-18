@@ -53,14 +53,14 @@ class Social(models.Model):
  ```
 Check out my links to my social account and sites.
 1. Corona App 
- ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/corona-app.jpg)
-2. Email 
- ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/email.jpg)
-3. Github Account 
- ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/github_account.jpg)
-4. LinkedIn Account 
- ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/linkedin_account.jpg)
-5. DEV Article 
- ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/Odero_article.jpg)
-6. Twitter Account 
- ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/twitter_account.jpg)
+2. ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/corona-app.jpg)
+3. Email 
+4. ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/email.jpg)
+5. Github Account 
+6. ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/github_account.jpg)
+7. LinkedIn Account 
+8. ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/linkedin_account.jpg)
+9. DEV Article 
+10. ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/Odero_article.jpg)
+11. Twitter Account 
+12.  ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/twitter_account.jpg)
