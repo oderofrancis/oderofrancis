@@ -51,3 +51,10 @@ class Social(models.Model):
     return self.github	
     
  ```
+Check out my links to my social account and sites.
+1. Corona App ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/corona-app.jpg)
+2. Email ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/email.jpg)
+3. Github Account ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/github_account.jpg)
+4. LinkedIn Account ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/linkedin_account.jpg)
+5. DEV Article ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/Odero_article.jpg)
+6. Twitter Account ![alt text](https://github.com/oderofrancis/qrcodes/blob/main/twitter_account.jpg)
