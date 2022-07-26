@@ -51,3 +51,5 @@ class Social(models.Model):
     return self.github	
     
  ```
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=oderofrancis&theme=highcontrast&show_icons=true&count_private=true)
