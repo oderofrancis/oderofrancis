@@ -14,8 +14,8 @@ class Portfolio(models.Model):
   name = models.CharField('Francis Odero')
   location = geomodels.PointField('Nyeri, Kenya')
   phone_number = models.PhoneNumberField(+254791061506)
-  profile  = models.CharField('Python GIS web developer, GIS Data analyst')
-  experience = models.PositiveIntegerField('2 + years')
+  profile  = models.CharField('GIS web developer, GIS Data analyst','Google Earth Engine','Python')
+  experience = models.PositiveIntegerField('3 + years')
   hobbies = models.CharField('coffee','cooking','travelling','poetry')
   
   def __str__(self):
