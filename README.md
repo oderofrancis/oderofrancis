@@ -42,6 +42,7 @@ class Portfolio(models.Model):
     
 class Social(models.Model):
   github = models.CharField('https://www.github.com/oderofrancis')
+  wemappers = models.CharField('https://wemappers.com/')
   twitter = models.CharField('https://twitter.com/_francisodero_')
   linkedin = models.CharField('www.linkedin.com/in/francis-odero-b69b6219')
   wakatime =models.CharField('https://wakatime.com/@Odero')
