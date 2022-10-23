@@ -57,7 +57,7 @@ class Social(models.Model):
 
 
 [![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@Odero)
-[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/WakaTime)
+[![twitter]([![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@d5c6a673-b491-48c9-af56-061dd6c053b9)](https://twitter.com/WakaTime)
 [![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
 
 - 🔭 I’m currently working on [[https://wakatime.com](https://wakatime.com/@Odero)](https://wakatime.com)
