@@ -55,12 +55,11 @@ class Social(models.Model):
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oderofrancis&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=oderofrancis&layout=compact)
 
+### Hi there wakatime lover👋
 
 [![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@Odero)
 
 
 - 💬 Ask me about Python, JavaScript, startups, Geo web development and bootstrapping
 - 📫 How to reach me: [@_francisodero_](https://twitter.com/_francisodero_) or [@WakaTime](https://wakatime.com/@Odero) on Twitter
-
-Add the [@WakaTime](https://github.com/wakatime) badge ([![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)) to your GitHub profile by creating a GitHub repo named `username/username` then copy the snippet from your [public WakaTime profile](https://wakatime.com/me).
 
