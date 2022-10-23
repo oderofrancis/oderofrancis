@@ -62,5 +62,5 @@ class Social(models.Model):
 
 
 - 💬 Ask me about Python, JavaScript, startups, Geo web development and bootstrapping
-- 📫 How to reach me: [@_francisodero_](https://twitter.com/_francisodero_) or [@WakaTime](https://wakatime.com/@Odero) on Twitter
+- 📫 How to reach me: on Twitter [@_francisodero_](https://twitter.com/_francisodero_) or [@WakaTime](https://wakatime.com/@Odero) on Wakatime
 
