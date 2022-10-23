@@ -52,10 +52,11 @@ class Social(models.Model):
     return self.github	
     
  ```
+### check out my Github stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oderofrancis&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=oderofrancis&layout=compact)
 
-### Hi there wakatime lover👋
+### Reach out to me on wakatime
 
 [![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@Odero)
 
