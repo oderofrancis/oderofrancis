@@ -57,12 +57,10 @@ class Social(models.Model):
 
 
 [![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@Odero)
-[![twitter]([![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@d5c6a673-b491-48c9-af56-061dd6c053b9)](https://twitter.com/WakaTime)
-[![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
 
-- 🔭 I’m currently working on [[https://wakatime.com](https://wakatime.com/@Odero)](https://wakatime.com)
-- 💬 Ask me about Go, Python, TypeScript, startups, and bootstrapping
-- 📫 How to reach me: [@alanhamlett](https://twitter.com/alanhamlett) or [@WakaTime](https://twitter.com/wakatime) on Twitter
+
+- 💬 Ask me about Python, JavaScript, startups, Geo web development and bootstrapping
+- 📫 How to reach me: [@_francisodero_](https://twitter.com/_francisodero_) or [@WakaTime](https://wakatime.com/@Odero) on Twitter
 
 Add the [@WakaTime](https://github.com/wakatime) badge ([![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)) to your GitHub profile by creating a GitHub repo named `username/username` then copy the snippet from your [public WakaTime profile](https://wakatime.com/me).
 
