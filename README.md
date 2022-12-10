@@ -12,7 +12,7 @@ from phonenumber_field.modelfields import PhoneNumberField
 
 class Portfolio(models.Model):
   name = models.CharField('Francis Odero')
-  location = geomodels.PointField('Nyeri, Kenya')
+  location = geomodels.PointField('Nairobi, Kenya')
   phone_number = models.PhoneNumberField(+254791061506)
   profile  = models.CharField('GIS web developer, GIS Data analyst','Google Earth Engine','Python')
   experience = models.PositiveIntegerField('3 + years')
@@ -24,7 +24,7 @@ class Portfolio(models.Model):
     
  class Skills(models.Model):
   languages = models.CharField('python','javascript')
-  operating_systems = models.CharField('linux')
+  operating_systems = models.CharField('linux - Ubuntu')
   web_frameworks = models.CharField('django')
   data_modelling_libraries =  models.CharField('pandas','geopandas','scikit-learn',
                                               'NumPy','SciPy','keras','TensorFlow'
@@ -35,9 +35,23 @@ class Portfolio(models.Model):
   approaches = models.CharField('object oriented')
   database  = models.CharField('PostgreSQL','SQLite')
   database_extension = models.CharField('PostGIS')
+  data_skills = models.CharFiels('Data analysis','data scrapping','data visualisation',
+                                  'data prediction','data cleaning','spatial data'
+                                  )
   
   def __str__(self):
     return self.languages
+    
+  class softwares(models.Model):
+    gis_analysis = models.CharField('ArcGIS','Quantum GIS','ENVI')
+    spatial_analysis_cloud = models.CharField('Google Earth Engine')
+    data_science = models.CharField('Microsoft Azure')
+    text_editor = models.CharField('VS code','sublime Text','jupyter notebook)
+    cloud_notebooks =  models.CharField('Datalore','Google Colab','Kaggle')
+    
+    def __str__(self):
+      return self.gis_analysis
+    
     
     
 class Social(models.Model):
