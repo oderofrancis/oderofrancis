@@ -42,15 +42,15 @@ class Portfolio(models.Model):
   def __str__(self):
     return self.languages
     
-  class softwares(models.Model):
-    gis_analysis = models.CharField('ArcGIS','Quantum GIS','ENVI')
-    spatial_analysis_cloud = models.CharField('Google Earth Engine')
-    data_science = models.CharField('Microsoft Azure')
-    text_editor = models.CharField('VS code','sublime Text','jupyter notebook)
-    cloud_notebooks =  models.CharField('Datalore','Google Colab','Kaggle')
+class softwares(models.Model):
+   gis_analysis = models.CharField('ArcGIS','Quantum GIS','ENVI')
+   spatial_analysis_cloud = models.CharField('Google Earth Engine')
+   data_science = models.CharField('Microsoft Azure')
+   text_editor = models.CharField('VS code','sublime Text','jupyter notebook)
+   cloud_notebooks =  models.CharField('Datalore','Google Colab','Kaggle')
     
-    def __str__(self):
-      return self.gis_analysis
+   def __str__(self):
+     return self.gis_analysis
     
     
     
