@@ -66,10 +66,11 @@ class Social(models.Model):
     return self.github	
     
  ```
+ https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg
  
  ### Languages and Tools
  
- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 
+ <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"/><img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /><img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" /><img height=50 
