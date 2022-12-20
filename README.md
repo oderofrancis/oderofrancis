@@ -75,8 +75,6 @@ class Social(models.Model):
 [<img align="left" alt="Git Control" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />]
 [<img align="left" alt="Mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />]
-[<img align="left" alt="Postgresql" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />]
-]
 
 ### check out my Github stats
 
