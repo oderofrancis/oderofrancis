@@ -70,8 +70,24 @@ class Social(models.Model):
  ### Languages and Tools
  
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/anaconda.svg"/><img height=50 
-src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg"/><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" /><img height=50 
+src="" /><img height=50 
+src="" />
+
+
+
+
+
  
 
 ### check out my Github stats
