@@ -71,7 +71,7 @@ class Social(models.Model):
  
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/anaconda.svg"/><img height=50 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
+src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
  
 
 ### check out my Github stats
