@@ -69,8 +69,9 @@ class Social(models.Model):
  
  ### Languages and Tools
  
- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src=" https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png
-"/><img height=50 src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.jetbrains.com%2Fdatalore%2F2020%2F08%2F28%2Fnew-logo-and-domain-change-command-palette-rename-refactoring-and-other-small-fixes%2F&psig=AOvVaw05IkI1Yb7beud8Q6Lm-Ybp&ust=1671634241666000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjA7vq4iPwCFQAAAAAdAAAAABAE)" />
+ <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/anaconda.svg"/><img height=50 
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
  
 
 ### check out my Github stats
