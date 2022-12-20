@@ -72,7 +72,7 @@ class Social(models.Model):
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"/><img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /><img height=50 
-src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" /><img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" /><img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" /><img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" /><img height=50 
@@ -81,8 +81,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.
 src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" /><img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" /><img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /><img height=50 
-src="" /><img height=50 
-src="" />
+src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" /><img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
 
 
 
