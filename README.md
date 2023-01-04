@@ -89,7 +89,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.s
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oderofrancis&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=oderofrancis&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oderofrancis"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oderofrancis"/> 
 
 ### Reach out to me on wakatime
 
