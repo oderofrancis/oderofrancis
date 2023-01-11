@@ -88,7 +88,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-origi
 
 ### Github contribution graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MokuaEnock&theme=gotham)](https://github.com/oderofrancis/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oderofrancis&theme=gotham)](https://github.com/oderofrancis/github-readme-activity-graph)
 
 ### Reach out to me on wakatime
 
