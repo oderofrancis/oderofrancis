@@ -87,7 +87,11 @@ src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-origi
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oderofrancis&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=oderofrancis&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oderofrancis"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oderofrancis"/>
+
+### Github contribution graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MokuaEnock&theme=gotham)](https://github.com/oderofrancis/github-readme-activity-graph)
 
 ### Reach out to me on wakatime
 
