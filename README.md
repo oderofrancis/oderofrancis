@@ -66,7 +66,6 @@ class Social(models.Model):
     return self.github	
     
  ```
- https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg
  
  ### Languages and Tools
  
@@ -79,8 +78,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.
 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" /> 
-
-
 
 
 ### check out my Github stats
