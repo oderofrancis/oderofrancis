@@ -86,10 +86,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-origi
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oderofrancis"/>
 
-### Github contribution graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oderofrancis&theme=gotham)](https://github.com/oderofrancis/github-readme-activity-graph)
-
 ### Reach out to me on wakatime
 
 [![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@Odero)
