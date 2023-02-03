@@ -90,6 +90,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-origi
 
 [![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@Odero)
 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Odero&theme=gotham&layout=compact&hide_border=true&v=2"/>
+
 
 - 💬 Ask me about Python, JavaScript, Geo web development and bootstrapping
 - 📫 How to reach me: on Twitter [@_francisodero_](https://twitter.com/_francisodero_) or [@WakaTime](https://wakatime.com/@Odero) on Wakatime
