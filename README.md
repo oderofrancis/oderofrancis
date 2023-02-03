@@ -88,7 +88,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-origi
 
 ## Top languages
 
-[![My Github top languages]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oderofrancis&layout=compact&langs_count=50&hide_border=true&title_color=38a5e1&icon_color=000000&text_color=ffffff&bg_color=0d1118"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oderofrancis&layout=compact&langs_count=50&hide_border=true&title_color=38a5e1&icon_color=000000&text_color=ffffff&bg_color=0d1118"/>
 
 ## Total Working Hours on wakatime
 
