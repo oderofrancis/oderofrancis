@@ -67,7 +67,7 @@ class Social(models.Model):
     
  ```
  
- ### Languages and Tools
+ ## Languages and Tools
  
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /> <img height=50 
@@ -80,7 +80,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql
 src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" /> 
 
 
-### check out my Github stats
+## My Github Statistics
+
+## Streaks && Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oderofrancis"/>
 
