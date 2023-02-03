@@ -100,6 +100,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-origi
 
 [![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oderofrancis&theme=github-compact&hide_border=true)](https://github.com/oderofrancis)
 
+## Reach Me At:
 
 - 💬 Ask me about Python, JavaScript, Geo web development and bootstrapping
 - 📫 How to reach me: on Twitter [@_francisodero_](https://twitter.com/_francisodero_) or [@WakaTime](https://wakatime.com/@Odero) on Wakatime
