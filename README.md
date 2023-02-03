@@ -86,7 +86,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-origi
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oderofrancis&layout=compact&langs_count=50&hide_border=true&title_color=38a5e1&icon_color=000000&text_color=ffffff&bg_color=0d1118"/>
 
-### Reach out to me on wakatime
+## Total Working Hours on wakatime
 
 [![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@Odero)
 
