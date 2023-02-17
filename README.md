@@ -96,6 +96,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-origi
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Odero&theme=gotham&layout=compact&hide_border=true&v=2"/>
 
+
 ## Graph
 
 [![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oderofrancis&theme=github-compact&hide_border=true)](https://github.com/oderofrancis)
