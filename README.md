@@ -82,11 +82,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-origi
 
 ## My Github Statistics
 
-
-## Streaks && Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oderofrancis"/>
-
 ## Total Working Hours on wakatime
 
 [![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@Odero)
