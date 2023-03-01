@@ -80,7 +80,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql
 src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" /> 
 
 
-## My Github Statistics
 
 ## Total Working Hours on wakatime
 
