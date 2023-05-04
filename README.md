@@ -81,6 +81,13 @@ src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-origi
 src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" /> 
 
 
+<img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" /> <img height=50 
+src="https://assets.website-files.com/61b3a482c8531b1b59d1d777/61f33c7e8911db2b4b7c0222_Dash.png" /> <img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" /> <img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" /> 
+
+
 
 ## Total Working Hours on wakatime
 
