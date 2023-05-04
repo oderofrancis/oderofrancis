@@ -78,14 +78,16 @@ src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.
 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" /> <img height=50 
-src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" /> 
-
-
-<img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" /> <img height=50 
 src="https://assets.website-files.com/61b3a482c8531b1b59d1d777/61f33c7e8911db2b4b7c0222_Dash.png" /> <img height=50 
-src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" /> <img height=50 
-src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" /> 
+src="https://corevaluetech.com/wp-content/uploads/2023/03/leaflet.png" /> <img height=50 
+src="https://autogis-site.readthedocs.io/en/2019/_images/OSM_logo.png" /><img height=50 
+src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" /> <img height=50 
+src="https://geopandas.org/en/stable/_images/geopandas_logo.png" /> <img height=50 
+src="https://earthengine.google.com/static/images/earth-engine-logo.png" /> <img height=50 
+src="https://geoplaza.vu.nl/cms/wp-content/uploads/2021/09/Logo_ArcMap_transparent-768x372.png" /> <img height=50 
+src="" /> 
 
 
 
