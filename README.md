@@ -77,7 +77,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-o
 src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> <img height=50 
-src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" /> 
+src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" /> <img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" /> 
 
 
 
