@@ -86,8 +86,7 @@ src="https://autogis-site.readthedocs.io/en/2019/_images/OSM_logo.png" /><img he
 src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" /> <img height=50 
 src="https://geopandas.org/en/stable/_images/geopandas_logo.png" /> <img height=50 
 src="https://earthengine.google.com/static/images/earth-engine-logo.png" /> <img height=50 
-src="https://geoplaza.vu.nl/cms/wp-content/uploads/2021/09/Logo_ArcMap_transparent-768x372.png" /> <img height=50 
-src="" /> 
+src="https://geoplaza.vu.nl/cms/wp-content/uploads/2021/09/Logo_ArcMap_transparent-768x372.png" />
 
 
 
