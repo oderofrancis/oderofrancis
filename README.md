@@ -89,15 +89,14 @@ src="https://earthengine.google.com/static/images/earth-engine-logo.png" /> <img
 src="https://geoplaza.vu.nl/cms/wp-content/uploads/2021/09/Logo_ArcMap_transparent-768x372.png" />
 
 
+## Github stats
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oderofrancis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/oderofrancis/github-readme-stats)
 
 ## Total Working Hours on wakatime
 
 [![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@Odero)
 
-## Github stats
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oderofrancis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/oderofrancis/github-readme-stats)
-
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Odero)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Graph
 
