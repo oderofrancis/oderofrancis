@@ -99,6 +99,8 @@ src="https://geoplaza.vu.nl/cms/wp-content/uploads/2021/09/Logo_ArcMap_transpare
 
 [![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oderofrancis&theme=github-compact&hide_border=true)](https://github.com/oderofrancis)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oderofrancis)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Reach Me At:
 
 - 💬 Ask me about Python, JavaScript, Geo web development and bootstrapping
