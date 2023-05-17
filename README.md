@@ -90,16 +90,18 @@ src="https://geoplaza.vu.nl/cms/wp-content/uploads/2021/09/Logo_ArcMap_transpare
 
 
 
-## Total Working Hours on wakatime
+### Total Working Hours on wakatime
 
 [![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@Odero)
+
+### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oderofrancis&show_icons=true&theme=transparent)
 
 
 ## Graph
 
 [![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oderofrancis&theme=github-compact&hide_border=true)](https://github.com/oderofrancis)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oderofrancis&show_icons=true&theme=transparent)
+
 
 ## Reach Me At:
 
