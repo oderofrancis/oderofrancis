@@ -91,10 +91,10 @@ src="https://geoplaza.vu.nl/cms/wp-content/uploads/2021/09/Logo_ArcMap_transpare
 
 # stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/oderofrancis/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oderofrancis&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/oderofrancis/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oderofrancis&repo=convoychat" />
 </a>
 
