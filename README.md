@@ -94,9 +94,8 @@ src="https://geoplaza.vu.nl/cms/wp-content/uploads/2021/09/Logo_ArcMap_transpare
 
 [![wakatime](https://wakatime.com/badge/user/d5c6a673-b491-48c9-af56-061dd6c053b9.svg)](https://wakatime.com/@Odero)
 
-### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oderofrancis&show_icons=true&theme=transparent)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oderofrancis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=oderofrancis&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
