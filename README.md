@@ -92,9 +92,9 @@ src="https://geoplaza.vu.nl/cms/wp-content/uploads/2021/09/Logo_ArcMap_transpare
 ## Github stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oderofrancis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/oderofrancis/github-readme-stats#gh-dark-mode-only) 
 
-## Graph
+<!-- ## Graph
 
-[![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oderofrancis&theme=github-compact&hide_border=true)](https://github.com/oderofrancis)
+[![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oderofrancis&theme=github-compact&hide_border=true)](https://github.com/oderofrancis) -->
 
 
 
