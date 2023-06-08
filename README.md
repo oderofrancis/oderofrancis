@@ -24,7 +24,7 @@ class Portfolio(models.Model):
     
  class Skills(models.Model):
   languages = models.CharField('python','javascript')
-  operating_systems = models.CharField('linux - Ubuntu')
+  operating_systems = models.CharField('linux - Ubuntu, Linux Lite')
   web_frameworks = models.CharField('django')
   data_modelling_libraries =  models.CharField('pandas','geopandas','scikit-learn',
                                               'NumPy','SciPy','keras','TensorFlow'
