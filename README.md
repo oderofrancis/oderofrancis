@@ -58,7 +58,7 @@ class Social(models.Model):
   github = models.CharField('https://www.github.com/oderofrancis')
   wemappers = models.CharField('https://wemappers.com/')
   twitter = models.CharField('https://twitter.com/_francisodero_')
-  linkedin = models.CharField('www.linkedin.com/in/francis-odero-b69b6219')
+  linkedin = models.CharField('linkedin.com/in/francis-odero-b69b62191')
   wakatime =models.CharField('https://wakatime.com/@Odero')
   email = models.CharField('francisodero10@gmail.com')
   
