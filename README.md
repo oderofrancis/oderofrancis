@@ -89,12 +89,12 @@ src="https://earthengine.google.com/static/images/earth-engine-logo.png" /> <img
 src="https://geoplaza.vu.nl/cms/wp-content/uploads/2021/09/Logo_ArcMap_transparent-768x372.png" />
 
 
-## Github stats 
+<!--  ## Github stats 
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=oderofrancis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=oderofrancis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<!-- ## Graph
+## Graph
 
 [![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oderofrancis&theme=github-compact&hide_border=true)](https://github.com/oderofrancis) -->
 
