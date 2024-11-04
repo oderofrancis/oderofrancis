@@ -24,7 +24,7 @@ class Portfolio(models.Model):
 class Conservation(models.Model):
   app = models.CharField('EarthRanger')
   analysis = geomodels.PointField('Ecoscope')
-  automation = models.PhoneNumberField('Python Scripts)
+  automation = models.PhoneNumberField('Python Scripts')
   script_management  = models.CharField('Google colaboratory','Google Drive')
   config = models.PositiveIntegerField('Json')
   config_managemnt = models.CharField('Dropbox')
