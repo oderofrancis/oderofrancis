@@ -15,11 +15,22 @@ class Portfolio(models.Model):
   location = geomodels.PointField('Nairobi, Kenya')
   phone_number = models.PhoneNumberField(+254791061506)
   profile  = models.CharField('GIS web developer, GIS Data analyst','Google Earth Engine','Python')
-  experience = models.PositiveIntegerField('4 + Years')
+  experience = models.PositiveIntegerField('6 + Years')
   hobbies = models.CharField('coffee','cooking','travelling','poetry')
   
   def __str__(self):
     return self.name
+
+class Conservation(models.Model):
+  app = models.CharField('EarthRanger')
+  analysis = geomodels.PointField('Ecoscope')
+  automation = models.PhoneNumberField('Python Scripts)
+  script_management  = models.CharField('Google colaboratory','Google Drive')
+  config = models.PositiveIntegerField('Json')
+  config_managemnt = models.CharField('Dropbox')
+  
+  def __str__(self):
+    return self.app
     
     
  class Skills(models.Model):
