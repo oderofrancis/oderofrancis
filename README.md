@@ -3,6 +3,12 @@
 Get to know more about me.
 ```python
 
+#pip install EDMT
+
+import edmt
+edmt.init()
+
+
 from django.db import models
 from django.db.models import Manager as GeoManager
 from django.contrib.gis.db import models as geomodels
@@ -24,6 +30,7 @@ class Portfolio(models.Model):
 class Conservation(models.Model):
   app = models.CharField('EarthRanger')
   analysis = geomodels.PointField('Ecoscope')
+  data_management = edmt.__version__
   automation = models.PhoneNumberField('Python Scripts')
   script_management  = models.CharField('Google colaboratory','Google Drive')
   config = models.PositiveIntegerField('Json')
